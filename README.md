@@ -78,18 +78,20 @@ Built using React, Node.js, Express, MongoDB, and Socket.io.
 
 ## Backend
 
+```txt
 backend/
-
 ├── config/
 ├── controllers/
 ├── middleware/
 ├── models/
 ├── routes/
 ├── sockets/
-├── utils/
+└── utils/
+```
 
 ## Frontend
 
+```txt
 frontend/src/
 ├── components/
 ├── pages/
@@ -97,9 +99,8 @@ frontend/src/
 ├── services/
 ├── hooks/
 ├── socket/
-├── utils/
-
----
+└── utils/
+```
 
 # API Endpoints
 
